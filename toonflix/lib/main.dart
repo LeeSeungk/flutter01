@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:toonflix/widgets/Btn.dart';
+import 'package:toonflix/widgets/currency_button.dart';
 import 'package:toonflix/widgets/currency_card.dart';
 
 class Player {
